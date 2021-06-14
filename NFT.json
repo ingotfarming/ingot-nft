@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "power": 10,
+    "price": 100,
+    "name": "Lead",
+    "maxAllowed": 7000
+  },
+  {
+    "id": 1,
+    "power": 14,
+    "price": 130,
+    "name": "Aluminium",
+    "maxAllowed": 5425
+  },
+  {
+    "id": 2,
+    "power": 19,
+    "price": 169,
+    "name": "Zinc",
+    "maxAllowed": 4204
+  },
+  {
+    "id": 3,
+    "power": 26,
+    "price": 220,
+    "name": "Copper",
+    "maxAllowed": 3258
+  },
+  {
+    "id": 4,
+    "power": 35,
+    "price": 285,
+    "name": "Tin",
+    "maxAllowed": 2525
+  },
+  {
+    "id": 5,
+    "power": 47,
+    "price": 371,
+    "name": "Cobalt",
+    "maxAllowed": 1957
+  },
+  {
+    "id": 6,
+    "power": 65,
+    "price": 483,
+    "name": "Silver",
+    "maxAllowed": 1516
+  },
+  {
+    "id": 7,
+    "power": 87,
+    "price": 627,
+    "name": "Platinum",
+    "maxAllowed": 1175
+  },
+  {
+    "id": 8,
+    "power": 118,
+    "price": 816,
+    "name": "Gold",
+    "maxAllowed": 910
+  },
+  {
+    "id": 9,
+    "power": 160,
+    "price": 1060,
+    "name": "Palladium",
+    "maxAllowed": 706
+  },
+  {
+    "id": 10,
+    "power": 215,
+    "price": 1378,
+    "name": "Iridium",
+    "maxAllowed": 547
+  },
+  {
+    "id": 11,
+    "power": 290,
+    "price": 1792,
+    "name": "Rhodium",
+    "maxAllowed": 424
+  }
+]
